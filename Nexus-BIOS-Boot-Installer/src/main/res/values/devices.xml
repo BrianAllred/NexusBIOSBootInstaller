@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (C) 2013 Brian D. Allred
+  ~
+  ~     This software source code is protected by copyright
+  ~     and may not be used, modified, or distributed
+  ~     without my permission.
+  ~
+  ~     All rights reserved.
+  -->
+
+<resources>
+    <string-array name="devices">
+        <item>Nexus 5</item>
+        <item>Nexus 7 2012</item>
+        <item>Nexus 7 2012 3G</item>
+        <item>Nexus 7 2013</item>
+        <item>Nexus 7 2013 LTE</item>
+        <item>Nexus 10</item>
+    </string-array>
+</resources>

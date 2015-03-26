@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright (C) 2013 Brian D. Allred
+  ~
+  ~     This software source code is protected by copyright
+  ~     and may not be used, modified, or distributed
+  ~     without my permission.
+  ~
+  ~     All rights reserved.
+  -->
+
+<resources>
+    <string-array name="fivemodels">
+        <item>D820 - 16GB</item>
+        <item>D820 - 32GB</item>
+        <item>D821 - 16GB</item>
+        <item>D821 - 32GB</item>
+    </string-array>
+    <string-array name="sevenoldmodels">
+        <item>8GB</item>
+        <item>16GB</item>
+    </string-array>
+    <string-array name="seventenmodels">
+        <item>16GB</item>
+        <item>32GB</item>
+    </string-array>
+</resources>

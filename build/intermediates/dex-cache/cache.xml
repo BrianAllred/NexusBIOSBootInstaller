@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Brian\Documents\GitHub\NexusBIOSBootInstaller\Nexus-BIOS-Boot-Installer\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-eb5a36051a4659a3ff3ca1bea58c3c3cb428a0d5.jar"
+        jar="C:\Users\Brian\Documents\GitHub\NexusBIOSBootInstaller\Nexus-BIOS-Boot-Installer\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Brian\Documents\GitHub\NexusBIOSBootInstaller\Nexus-BIOS-Boot-Installer\build\intermediates\pre-dexed\debug\classes-6378dd3b1cdb1d95706438673396aa27f2491262.jar"
+        jar="C:\Users\Brian\Documents\GitHub\NexusBIOSBootInstaller\Nexus-BIOS-Boot-Installer\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Brian\Documents\GitHub\NexusBIOSBootInstaller\Nexus-BIOS-Boot-Installer\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-2cbf018ddf74e1c4190c4095537e078e2557652a.jar"
+        jar="C:\Users\Brian\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Brian\Documents\GitHub\NexusBIOSBootInstaller\Nexus-BIOS-Boot-Installer\build\intermediates\pre-dexed\debug\lib-7159055820bb7daff569fab4b16edb8c68b13bb1.jar"
+        jar="C:\Users\Brian\Documents\GitHub\NexusBIOSBootInstaller\Nexus-BIOS-Boot-Installer\libs\lib.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="02d1c2266fcb04660d30360d7d5751fb9c9f449d"/>
+    <item
+        dex="C:\Users\Brian\Documents\GitHub\NexusBIOSBootInstaller\Nexus-BIOS-Boot-Installer\build\intermediates\pre-dexed\debug\RootTools-3.5-8210be46efa172b6a14fbb03d75a54a6bdb63d55.jar"
+        jar="C:\Users\Brian\Documents\GitHub\NexusBIOSBootInstaller\Nexus-BIOS-Boot-Installer\libs\RootTools-3.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="16b2d49a7359c9ddbfcb1bc66f9c342c502e821b"/>
+    <item
+        dex="C:\Users\Brian\Documents\GitHub\NexusBIOSBootInstaller\Nexus-BIOS-Boot-Installer\build\intermediates\pre-dexed\debug\RootTools-javadoc-3.5-be42b6039e179c2dacc2c7ad7b6ccfab2f265e83.jar"
+        jar="C:\Users\Brian\Documents\GitHub\NexusBIOSBootInstaller\Nexus-BIOS-Boot-Installer\libs\RootTools-javadoc-3.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9c239592c02bdd33e3cc21db6669701c18726d75"/>
+
+</pre-dex-items>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright (C) 2013 Brian D. Allred
+  ~
+  ~     This software source code is protected by copyright
+  ~     and may not be used, modified, or distributed
+  ~     without my permission.
+  ~
+  ~     All rights reserved.
+  -->
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="10dip"
+    android:textSize="16dip"></TextView>

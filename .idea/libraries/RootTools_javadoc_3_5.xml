@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RootTools-javadoc-3.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Nexus-BIOS-Boot-Installer/libs/RootTools-javadoc-3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

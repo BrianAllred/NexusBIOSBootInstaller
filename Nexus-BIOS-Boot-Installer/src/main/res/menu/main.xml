@@ -1,0 +1,14 @@
+<!--
+  ~ Copyright (C) 2013 Brian D. Allred
+  ~
+  ~     This software source code is protected by copyright
+  ~     and may not be used, modified, or distributed
+  ~     without my permission.
+  ~
+  ~     All rights reserved.
+  -->
+
+<menu xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.frozeninferno.nexusbios.MainActivity">
+
+</menu>

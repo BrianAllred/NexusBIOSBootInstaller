@@ -1,0 +1,54 @@
+/*
+ * Copyright (C) 2013 Brian D. Allred
+ *
+ *     This software source code is protected by copyright
+ *     and may not be used, modified, or distributed
+ *     without my permission.
+ *
+ *     All rights reserved.
+ */
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:0.12.2'
+    }
+}
+apply plugin: 'com.android.application'
+
+repositories {
+    mavenCentral()
+}
+
+android {
+    compileSdkVersion 20
+    buildToolsVersion '20.0.0'
+
+    defaultConfig {
+        minSdkVersion 19
+        targetSdkVersion 20
+        versionCode 16
+        versionName "1.0.2"
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+    buildTypes {
+        release {
+            runProguard true
+            proguardFile 'C:/Users/Brian/Documents/GitHub/NexusBIOSBootInstaller/Nexus-BIOS-Boot-Installer/proguard-android-optimize.txt'
+        }
+    }
+
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:20.0.0'
+    compile files('libs/RootTools-3.5.jar')
+    compile files('libs/RootTools-javadoc-3.5.jar')
+    compile files('libs/lib.jar')
+}
